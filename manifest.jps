@@ -1,6 +1,7 @@
 type: install
-name: skipNodeEmails
+name: Hello World!
+engine: php5.4
+
 nodes:
-  - nodeType: mysql
-    cloudlets: 4
-skipNodeEmails: true
+  nodeType: apache2
+  cloudlets: 16
