@@ -1,0 +1,6 @@
+type: install
+name: skipNodeEmails
+nodes:
+  - nodeType: mysql
+    cloudlets: 4
+skipNodeEmails: true
