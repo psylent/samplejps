@@ -4,4 +4,4 @@ engine: php5.4
 
 nodes:
   nodeType: apache2
-  cloudlets: 16
+  cloudlets: 10
