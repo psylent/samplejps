@@ -1,4 +1,4 @@
-type: update
+type: install
 name: Hello World!
 engine: php5.4
 
