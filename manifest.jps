@@ -1,6 +1,6 @@
 type: install
 name: Hello World!
-gine: php7.3
+gine: php7.4
 
 nodes:
   nodeType: apache2
