@@ -1,6 +1,6 @@
 type: install
 name: Hello World!
-engine: php5.4
+ngine: php
 
 nodes:
   nodeType: apache2
